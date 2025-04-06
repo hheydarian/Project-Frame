@@ -34,9 +34,11 @@ While working on this project, I practiced:
 ## 📂 Project Structure
 
 
+
 ## 📷 Preview
 
-You can view the live version of this template by opening the `index.html` file in your browser.
+You can view the live version of this template here:  
+🔗 [https://hheydarian.github.io/Project-Frame/](https://hheydarian.github.io/Project-Frame/)
 
 ## ✅ Status
 
