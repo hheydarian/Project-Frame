@@ -3,6 +3,10 @@
 A basic web page layout built using only HTML and CSS.  
 This is a personal practice project to showcase my understanding of page structure and styling without any frameworks.
 
+## 🖼 Screenshot
+
+![Preview](preview.jpg)
+
 ## 📌 About the Project
 
 This template was created as part of my learning process while getting started with web development. The main goal was to create a clean, organized layout that includes the essential parts of a typical website such as:
