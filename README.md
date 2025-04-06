@@ -5,7 +5,7 @@ This is a personal practice project to showcase my understanding of page structu
 
 ## 🖼 Screenshot
 
-![Preview](preview.jpg)
+![Preview](assets/images/preview.jpg)
 
 ## 📌 About the Project
 
